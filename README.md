@@ -12,3 +12,6 @@ the script extracts jim-workstation-02 and puts to
 
 This script is useful to control set of hosts
 which have IP addresses and names set by dynamically by DHCP.
+
+This script is automatically run on startup by Upstart
+http://upstart.ubuntu.com/getting-started.html
